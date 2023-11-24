@@ -37,7 +37,8 @@ int main(){
 
 # Languages and Tools
 
-![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)
+![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/:extensionId)
+
 
    
 
