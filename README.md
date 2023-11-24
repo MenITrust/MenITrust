@@ -37,7 +37,7 @@ int main(){
 
 # Languages and Tools
 
-![js](https://img.shields.io/badge/C++20-gray?logo=C++20)
+![js](https://img.shields.io/badge/Cpluplus-gray?logo=Cplusplus)
 
    
 
