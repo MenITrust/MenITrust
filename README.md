@@ -35,5 +35,11 @@ int main(){
 
 ---
 
+# Languages and Tools
+
+            ![js](https://img.shields.io/badge/C++-gray?logo=C++)
+
+   
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MenITrust)](https://github.com/MenITrust/github-readme-stats)
