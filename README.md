@@ -13,8 +13,8 @@ We are a passionate group of self taught coders. We love building innovative pro
 #include <iostream>
 
 int main(){
-  cout<<"WE ARE MIT"<<" WELCOME.";
-  return 0
+  cout<< "**WE ARE MIT**" << "WELCOME." ;
+  return 0;
 }
 ```
 
@@ -24,20 +24,20 @@ int main(){
 - 🌱 we are constantly learning and improving our skills in c++.
 
 
-- 👯 we are looking for a collaboration on our projects
+- 👯 we are looking for a collaboration on our projects.
 
 
-- 💬 Ask us about our projects
+- 💬 Ask us about our projects.
 
 
-- 📫 How to reach me: [provide your email or social media links].
+- 📫 How to reach us: [menitrust23@gmail.com].
 
 
 ---
 
-# Languages and Tools  
+# Languages and Tools  visual-studio-marketplace
 
-![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)  ![js](https://img.shields.io/badge/visualstudio-gray?logo=visualstudio)  ![js](https://img.shields.io/badge/git-gray?logo=git)  
+![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)  ![js](https://img.shields.io/badge/C++-blue?logo=visualstudio)  
 
 
    
