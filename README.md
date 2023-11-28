@@ -30,7 +30,7 @@ int main(){
 - 💬 Ask us about our projects.
 
 
-- 📫 How to reach us: [menitrust23@gmail.com].
+- 📫 How to reach us: menitrust23@gmail.com
 
 
 ---
