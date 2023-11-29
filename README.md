@@ -13,7 +13,7 @@ We are a passionate group of self taught coders. We love building innovative pro
 #include <iostream>
 
 int main(){
-  cout<< "WE ARE MIT" << "WELCOME." ;
+ std::cout<< "WE ARE MIT" << " WELCOME." ;
   return 0;
 }
 ```
@@ -35,9 +35,9 @@ int main(){
 
 ---
 
-# Languages and Tools  visual-studio-marketplace
+# Languages and Tools 
 
-![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)  ![js](https://img.shields.io/badge/C++-blue?logo=visualstudio)  
+![js](https://img.shields.io/badge/C++-blue?logo=Cplusplus)  ![js](https://img.shields.io/badge/visualstudio-blue?logo=visualstudio)  
 
 
    
