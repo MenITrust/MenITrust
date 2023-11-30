@@ -13,7 +13,7 @@ We are a passionate group of self taught coders. We love building innovative pro
 #include <iostream>
 
 int main(){
- std::cout<< "WE ARE MIT" << " WELCOME." ;
+std::cout << "WE ARE MIT" << " WELCOME." endl;
   return 0;
 }
 ```
